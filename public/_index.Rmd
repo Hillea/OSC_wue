@@ -1,0 +1,49 @@
+---
+title: "index"
+output:
+    md_document:
+        variant: markdown_github
+ 
+---
+
+title: ""
+date: 2018-09-09T00:00:00-00:00
+copyright: "Lea Hildebrandt"
+#mapsapikey: xxx
+
+socialhandles:
+   # twitter: "stream_running"
+   # github: "runningstream"
+#    googplus: "goog_addr_here"
+
+menu:
+    -
+        url: "open-science-wuerzburg.netlify.com"
+        name: "Home"
+
+intro:
+    header: ""
+    text: ""
+
+about:
+    rename: "Über uns"
+    header: "Jeden 2. und 4. Mittwoch des Monats. 18:oo Uhr. Raum 217, Marcusstr. 9-11."
+    text: '<p>Meta-Science Journal Club an der Universität Würzburg.</p>'
+
+download:
+    rename: "Kalender"
+    header: "Nächste Treffen"
+    text: '<p>
+    
+    ```{r, include=FALSE}
+
+source("Kalender.R", encoding = "UTF-8")
+
+```
+</p>'
+
+contact:
+    rename: "Kontakt"
+    header: "Kontakt"
+    text: '<p>openscience.uniwue@gmail.com</p>'
+---

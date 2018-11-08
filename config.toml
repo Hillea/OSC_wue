@@ -1,0 +1,8 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Open Science Club Würzburg"
+theme = "hugograyscale"
+[Params]
+    # Provide some metadata for search and indexing services
+    description = "A Meta-Science Journal Club at the University of Würzburg"
+    author = "Open Science Würzburg"
