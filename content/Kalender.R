@@ -23,13 +23,13 @@ for (i in Nr.){
 Thema <- c(
   
   ### Sitzung 1
-  'Die 7 Todsünden der Psychologie',
+  'How to conduct meta-analysis: A Basic Tutorial'#,
   
   ### Sitzung 2
-  'Gibt es eine Replikationskrise?',
+ # 'Gibt es eine Replikationskrise?',
   
   ### Sitzung 3
-  'Was ist eine Replikation und was sollte repliziert werden?'
+  #'Was ist eine Replikation und was sollte repliziert werden?'
   
 ) 
 
@@ -38,16 +38,13 @@ Thema <- c(
 Paper <- c(
   
   ### Sitzung 1
-  'Open Science Collaboration. (2015). 
-Estimating the reproducibility of 
-  psychological science. Science, 349, 
-  aac4716.',
+  'https://peerj.com/preprints/2978.pdf'#,
   
   ### Sitzung 2
-  'Gibt es eine Replikationskrise?',
+ # 'Gibt es eine Replikationskrise?',
   
   ### Sitzung 3
-  'Was ist eine Replikation und was sollte repliziert werden?'
+  #'Was ist eine Replikation und was sollte repliziert werden?'
   
 ) 
 
@@ -55,16 +52,13 @@ Estimating the reproducibility of
 zusPaper <- c(
   
   ### Sitzung 1
-  'Open Science Collaboration. (2015). 
-  Estimating the reproducibility of 
-  psychological science. Science, 349, 
-  aac4716.',
+  #'Open Science Collaboration. (2015).   Estimating the reproducibility of  psychological science. Science, 349, aac4716.',
   
   ### Sitzung 2
-  'Gibt es eine Replikationskrise?',
+  #'Gibt es eine Replikationskrise?',
   
   ### Sitzung 3
-  'Was ist eine Replikation und was sollte repliziert werden?'
+ # 'Was ist eine Replikation und was sollte repliziert werden?'
   
 ) 
 

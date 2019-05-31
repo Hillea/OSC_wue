@@ -22,8 +22,9 @@ socialhandles:
 
 menu:
     -
-        url: "open-science-wuerzburg.netlify.com"
-        name: "Home"
+        url: "https://material-opensciencewuerzburg.netlify.com"
+        name: "Material"
+        
 
 intro:
     header: ""
@@ -31,16 +32,18 @@ intro:
 
 about:
     rename: "Über uns"
-    header: "Jeden 2. und 4. Mittwoch des Monats. 18:oo Uhr. Raum 217, Marcusstr. 9-11."
-    text: '<p>Meta-Science Journal Club an der Universität Würzburg.</p>'
+    header: "Jeden 2. und 4. Mittwoch des Monats. 18:oo Uhr.  <br> Raum 217, Marcusstr. 9-11.  <br> Uni Würzburg."
+    text: '<p>In diesem Meta-Science Journal Club diskutieren wir über Themen wie Forschungsmethoden, Replikationskrise & Wissenschaftstheorie. <br> Wir lesen vorher (optional) ein aktuelles Paper und besprechen dieses während der Sitzung.  <br> Andere Events wie Vorträge, Filmabende oder Workshops sind geplant.</p>'
 
 download:
     rename: "Kalender"
-    header: "Nächste Treffen"
-    text: '<p>14.11.2018</p>'
+    header: "Nächstes Treffen"
+    text: '<p>5.6.2019 - <a href="https://journals.sagepub.com/doi/full/10.1177/2515245919847202">Evaluating Effect Size in Psychological
+Research: Sense and Nonsense.</a>  </p>
+    <p>Der aktuelle Kalender und die jeweiligen Paper sind <a href="https://docs.google.com/spreadsheets/d/1RNpyyt3MutV5EH1MaNQF3fPka8EBxUSx9vrb45yz7Ls/edit?usp=sharing">hier</a> zu finden. Dort dürfen auch gerne Vorschläge & Wünsche als Kommentare hinterlassen werden.</p>'
 
 contact:
     rename: "Kontakt"
     header: "Kontakt"
-    text: '<p>openscience.uniwue@gmail.com</p>'
+    text: '<p><a href="mailto:openscience.uniwue@gmail.com">openscience.uniwue@gmail.com</a> </p><p> Wir teilen unser Material (Folien usw.) in unserem <br> <a href="https://osf.io/yax8e/?view_only=1a3caa19fec544e692a99b604d0f6ebf">Open Science Framework</a> Repository, <br> auf <a href="https://github.com/Hillea/WOSC_materials">Github</a> <br> und auf unserem <a href="https://material-opensciencewuerzburg.netlify.com/">Blog</a>.</p>'
 ---
